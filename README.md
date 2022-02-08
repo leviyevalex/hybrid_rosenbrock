@@ -3,17 +3,17 @@
 Python implementation of ```https://arxiv.org/abs/1903.09556```
 
 Implements
-[X] log density
+[x] log density
 
-[X] Gradient of log density
+[x] Gradient of log density
 
-[X] Hessian of log density
+[x] Hessian of log density
 
-[X] Gauss-Newton approximation Hessian
+[x] Gauss-Newton approximation Hessian
 
-[X] i.i.d. sampling
+[x] i.i.d. sampling
 
-[X] Normalization factor
+[x] Normalization factor
 
 [] Tutorial
 
