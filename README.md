@@ -4,7 +4,7 @@ Python implementation of ```https://arxiv.org/abs/1903.09556```
 
 Tasks:
 
-- [x]  log density
+- [X]  log density
 
 - [x]  Gradient of log density
 
