@@ -2,21 +2,20 @@
 
 Python implementation of ```https://arxiv.org/abs/1903.09556```
 
-Implements
-- [ ] Add delight to the experience when all tasks are complete :tada:
+Tasks:
 
-[x] log density
+- [x]  log density
 
-[x] Gradient of log density
+- [x]  Gradient of log density
 
-[x] Hessian of log density
+- [x]  Hessian of log density
 
-[x] Gauss-Newton approximation Hessian
+- [x]  Gauss-Newton approximation Hessian
 
-[x] i.i.d. sampling
+- [x]  i.i.d. sampling
 
-[x] Normalization factor
+- [x]  Normalization factor
 
-[] Tutorial
+- [ ]  Tutorial
 
 
