@@ -1,21 +1,16 @@
-# Hybrid Rosenbrock
+# hybrid_rosenbrock
 
-Python implementation of ```https://arxiv.org/abs/1903.09556```
+A python implementation of ```https://arxiv.org/abs/1903.09556```
 
-Tasks:
+## Motivation
 
-- [X]  log density
+It is important to have reliable benchmarks to check against in order to quantify the performance, or confirm the validity of, Bayesian inference algorithms. The hybrid Rosenbrock distribution is a benchmark that
+1. may be sampled directly,
+2. may be extended to an arbitrary dimension $n \ge 1$,
+3. may be tuned to increased or decreased difficulty easily,
+4. resembles many practical problems of interest (e.g, https://arxiv.org/abs/2106.15163).
 
-- [x]  Gradient of log density
+## Getting started
 
-- [x]  Hessian of log density
-
-- [x]  Gauss-Newton approximation Hessian
-
-- [x]  i.i.d. sampling
-
-- [x]  Normalization factor
-
-- [ ]  Tutorial
 
 
