@@ -1,6 +1,6 @@
 # hybrid_rosenbrock
 
-A python implementation of ```https://arxiv.org/abs/1903.09556```
+A python implementation of https://arxiv.org/abs/1903.09556
 
 ## Motivation
 
