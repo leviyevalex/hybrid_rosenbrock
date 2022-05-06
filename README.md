@@ -1,26 +1,3 @@
-<<<<<<< HEAD
-# Hybrid Rosenbrock
-
-Python implementation of ```https://arxiv.org/abs/1903.09556```
-
-Tasks:
-
-- [X]  log density
-
-- [x]  Gradient of log density
-
-- [x]  Hessian of log density
-
-- [x]  Gauss-Newton approximation Hessian
-
-- [x]  i.i.d. sampling
-
-- [x]  Normalization factor
-
-- [ ]  Tutorial
-
-
-=======
 # hybrid_rosenbrock
 
 A python implementation of https://arxiv.org/abs/1903.09556
@@ -35,7 +12,3 @@ It is important to have reliable benchmarks to check against in order to compare
 
 For these reasons the hybrid Rosenbrock is a very desirable benchmark for MCMC testing. 
 ## Getting started
-
-
-
->>>>>>> master
